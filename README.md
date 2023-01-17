@@ -5,9 +5,13 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src ="https://github-profile-trophy.vercel.app/?username=elchinuralov" alt="elchinuralov" /></a> </p>
 
 <h3 align="left">contact me:</ h3>
+
 <p align="left">
+  
 <a href="https://linkedin.com/in/elchinuralov" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elchinuralov" height="30" width="40"> </a>
-<a href="https://www.leetcode.com/elchinuralov07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme -generator/master/src/images/icons/Social/leet-code.svg" alt="elchinuralov07" height="30" width="40" /></a>
+  
+<a href="https://www.leetcode.com/elchinuralov07" target="blank"><img align="center" src="https://assets.leetcode.com/static_assets/public/webpack_bundles/images/logo-dark.e99485d9b.svg" alt="elchinuralov07" height="30" width="40"></a>
+
 </p>
 
 <h3 align="left" ">Tillar va asboblar:</h3>
