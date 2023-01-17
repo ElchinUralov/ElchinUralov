@@ -8,11 +8,13 @@
 </p>
 
 <p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"
-    ><img
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img
       src="https://github-profile-trophy.vercel.app/?username=elchinuralov"
       alt="elchinuralov"
-  /></a>
+  />
+    
+  </a>
 </p>
 
 <h3 align="left">contact me</h3>
