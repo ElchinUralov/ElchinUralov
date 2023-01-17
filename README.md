@@ -21,18 +21,7 @@
 
 <p align="left">
   
-    <a href="https://linkedin.com/in/elchinuralov" target="blank">
-
-        <img
-        style="display: inline-block"
-        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-        alt="elchinuralov"
-        height="30px"
-        width="40px"
-        />
-  </a>
-
-  <a href="https://www.leetcode.com/elchinuralov07" target="blank">
+     <a href="https://www.leetcode.com/elchinuralov07" target="blank">
         <img
         style="display: inline-block"
         src="https://assets.leetcode.com/static_assets/public/webpack_bundles/images/logo-dark.e99485d9b.svg"
