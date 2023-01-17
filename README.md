@@ -56,14 +56,15 @@
 <h3 align="left">Skills</h3>
 <p align="left">
 
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon /master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-      alt="bootstrap"
-      width="40"
-      height="40"
-    />
-  </a>
+  <a href="https://t.me/elchinuralov" target="blank">
+        <img
+        style="display: inline-block"
+        src="https://download.logo.wine/logo/Telegram_(software)/Telegram_(software)-Logo.wine.png"
+        alt="telegram"
+        height="60px"
+        width="90px"
+        />
+    </a>
   <br>
   <a href="https://www.w3schools.com /cpp/" target="_blank" rel="noreferrer">
     <img
