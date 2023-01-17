@@ -39,7 +39,7 @@
         alt="elchinuralov07"
         height="60px"
         width="80px"
-        >
+        />
     </a>
     
     <a href="https://t.me/elchinuralov" target="blank">
@@ -49,7 +49,7 @@
         alt="telegram"
         height="60px"
         width="90px"
-        >
+        />
     </a>
 </p>
 
