@@ -53,7 +53,7 @@
     </a>
 </p>
 
-<h3 align="left">Tillar va asboblar</h3>
+<h3 align="left">Skills</h3>
 <p align="left">
 
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
