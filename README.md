@@ -27,7 +27,7 @@
         alt="elchinuralov"
         height="30"
         width="40"
-        />
+        >
   </a>
 
   <a href="https://www.leetcode.com/elchinuralov07" target="blank">
@@ -37,7 +37,7 @@
         alt="elchinuralov07"
         height="60px"
         width="80px"
-        />
+        >
     </a>
     
     <a href="https://t.me/elchinuralov" target="blank">
@@ -47,7 +47,7 @@
         alt="telegram"
         height="60px"
         width="90px"
-        />
+        >
     </a>
 </p>
 
