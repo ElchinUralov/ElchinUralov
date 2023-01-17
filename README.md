@@ -29,7 +29,7 @@
         alt="elchinuralov"
         height="30px"
         width="40px"
-        >
+        />
   </a>
 
   <a href="https://www.leetcode.com/elchinuralov07" target="blank">
