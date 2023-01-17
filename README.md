@@ -19,7 +19,7 @@
 
 <p align="left">
   
-    <a href="[https://linkedin.com/in/elchinuralov](https://www.linkedin.com/in/elchin-uralov-434228259?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B6Y2GdRtaSQK6HCyHd13hog%3D%3D)" target="blank">
+    <a href="https://linkedin.com/in/elchinuralov" target="blank">
 
         <img
         style="display: inline-block"
