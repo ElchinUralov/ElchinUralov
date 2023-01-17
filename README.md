@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Elchin Elchin Uralov</h1>
+<h1 align="center">Hi 👋, I'm Elchin Uralov</h1>
 <h3 align="center">A passionate beckend developer from Uzbekistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elchinuralov&label=Profile%20views&color=0e75b6&style=flat" alt="elchinuralov" /> </p>
