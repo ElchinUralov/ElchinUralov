@@ -53,6 +53,41 @@
     </a>
 </p>
 
+<h3 align="left">contact me</h3>
+<p align="left">
+
+  <a href="https://t.me/elchinuralov" target="blank">
+        <img
+        style="display: inline-block"
+        src="https://download.logo.wine/logo/Telegram_(software)/Telegram_(software)-Logo.wine.png"
+        alt="telegram"
+        height="60px"
+        width="90px"
+        />
+    </a>
+  
+  <a href="https://linkedin.com/in/elchinuralov" target="blank">
+
+        <img
+        style="display: inline-block"
+        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+        alt="elchinuralov"
+        height="30px"
+        width="40px"
+        />
+  </a>
+  
+  <a href="https://www.leetcode.com/elchinuralov07" target="blank">
+        <img
+        style="display: inline-block"
+        src="https://assets.leetcode.com/static_assets/public/webpack_bundles/images/logo-dark.e99485d9b.svg"
+        alt="elchinuralov07"
+        height="60px"
+        width="80px"
+        />
+    </a>
+  </p>
+
 <h3 align="left">Skills</h3>
 <p align="left">
 
