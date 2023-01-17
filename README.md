@@ -8,9 +8,9 @@
 
 <p align="left">
   
-<a href="https://linkedin.com/in/elchinuralov" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elchinuralov" height="30" width="40"> </a>
+<a href="https://linkedin.com/in/elchinuralov" target="blank"> <img style="display:inline-block;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elchinuralov" height="30" width="40"> </a>
   
-<a href="https://www.leetcode.com/elchinuralov07" target="blank"><img align="center" src="https://assets.leetcode.com/static_assets/public/webpack_bundles/images/logo-dark.e99485d9b.svg" alt="elchinuralov07" height="30" width="40"></a>
+<a href="https://www.leetcode.com/elchinuralov07" target="blank"><img style="display:inline-block;" src="https://assets.leetcode.com/static_assets/public/webpack_bundles/images/logo-dark.e99485d9b.svg" alt="elchinuralov07" height="60px" width="80px"></a>
 
 </p>
 
